@@ -11,10 +11,12 @@ var dict = [
  
 var items3 = dict.sort((a, b) => a.alumne.localeCompare(b.alumne))
 
+console.log("Ordenado por Nombre")
 console.log(items3);
 
 var items2 = dict.sort((a, b) => a.data_naiximent.localeCompare(b.data_naiximent))
 
+console.log("Ordenado por Fecha")
 console.log(items2);
 
 

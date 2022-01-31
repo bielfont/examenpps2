@@ -1,0 +1,23 @@
+{
+  "name": "examenpps2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alumnes.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bielfont/examenpps2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bielfont/examenpps2/issues"
+  },
+  "homepage": "https://github.com/bielfont/examenpps2#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.0"
+  }
+}
